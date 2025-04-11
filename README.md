@@ -7,7 +7,7 @@ Software Engineer
 Informatics Engineering Graduate with a solid foundation in software development, software engineering, and full stack web development. Passionate about solving complex problems and applying innovative technologies.
 
 * 🌍  I'm based in Portugal
-* 🖥️  See my portfolio at [My Portfolio](http://admirable-phoenix-9cba38.netlify.app/)
+* 🖥️  See my portfolio at [My Portfolio](https://jose-sousa-portfolio.netlify.app)
 * ✉️  You can contact me at [josecarlossousa.95@gmail.com](mailto:josecarlossousa.95@gmail.com)
 
 ### Skills
